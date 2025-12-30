@@ -1,0 +1,12 @@
+# ignore text files
+*.txt
+
+# ignore log files
+*.log
+
+# ignore logs directory
+logs/
+
+# ignore hidden files
+.*
+!.gitignore
